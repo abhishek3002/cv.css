@@ -1,4 +1,3 @@
-# cv.css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -50,13 +49,13 @@ body div{
     <body>
         <img src="/Documents/photo colour.jpg" alt="" width="75px" height="100px">
         <header><h1>~CV~</h1>
-        <h2>ABHISHEK THAKRE</h2>
+        <h2>MANISH BHUJBAL</h2>
         <h3><i>Web Developer/Designer</i>
             <br>
         </header>
         <main>
             <section>
-            <b>DOB:11-04-2000</b>
+            <b>DOB:07-12-2001</b>
             <p>Mumbai, Maharashtra, India</p>
         </section>
         <h4>About me</h4>
@@ -80,16 +79,16 @@ body div{
             <tbody>
                 <tr>
                 <td>SSC</td>
-                <td>2016 &nbsp</td>
+                <td>2016 </td>
                 
-                   <td> R.M.V. , Airoli , Navi-Mumbai</td>
-                    <td>83.20%</td> 
+                   <td> R.M.V. , Airoli</td>
+                    <td>83.20% </td> 
                 </tr>
                 <tr>
                     <td>HSC</td>
                     <td>2018 &nbsp</td>
                     
-                       <td>Menon jr Clg , Bhandup</td>
+                       <td> M.E.S> Menon , Bhandup</td>
                         <td>68%</td> 
                     </tr>
                 <tr>
@@ -123,5 +122,7 @@ body div{
 
     </body>
 </head>
+
+</html>
 
 </html>
