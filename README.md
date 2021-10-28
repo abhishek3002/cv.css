@@ -49,13 +49,13 @@ body div{
     <body>
         <img src="/Documents/photo colour.jpg" alt="" width="75px" height="100px">
         <header><h1>~CV~</h1>
-        <h2>MANISH BHUJBAL</h2>
+        <h2>ABHISHEK THAKRE</h2>
         <h3><i>Web Developer/Designer</i>
             <br>
         </header>
         <main>
             <section>
-            <b>DOB:07-12-2001</b>
+            <b>DOB:11-04-2000</b>
             <p>Mumbai, Maharashtra, India</p>
         </section>
         <h4>About me</h4>
